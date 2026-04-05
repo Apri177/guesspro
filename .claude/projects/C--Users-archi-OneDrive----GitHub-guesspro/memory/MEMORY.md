@@ -1,0 +1,1 @@
+- [GuessPro 컨셉](project_concept.md) — 게임 플레이 영상 보고 누가 했는지 맞추기 사이트
